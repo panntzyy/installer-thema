@@ -243,7 +243,7 @@ echo -e "${BLUE}[+] =============================================== [+]${NC}"
 echo -e "                                                                   "
 
 # Unduh file tema
-wget -O /root/stellarbaru.zip https://github.com/VanzzTOT/temaa/raw/main/stellarbaru.zip
+wget -O /root/stellarbaru.zip https://github.com/VanzzzTOT/temaa/raw/refs/heads/main/stellarbaru.zip
 
 # Ekstrak file tema
 unzip /root/stellarbaru.zip -d /root/pterodactyl
