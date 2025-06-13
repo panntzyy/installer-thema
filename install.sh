@@ -243,7 +243,7 @@ echo -e "${BLUE}[+] =============================================== [+]${NC}"
 echo -e "                                                                   "
 
 # Unduh file tema
-wget -O /root/stellarbaru.zip  https://github.com/VanzzzTOT/temaa/blob/main/ARIX%20THEME%20FROM%20HIKARU%20YOUKI%20(SFILE.MOBI).zip
+wget -O /root/stellarbaru.zip  https://github.com/VanzzzTOT/temaa/blob/main/bokep.zip
 
 # Ekstrak file tema
 unzip /root/stellarbaru.zip -d /root/pterodactyl
